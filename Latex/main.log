@@ -1,0 +1,405 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.18)  21 SEP 2020 00:32
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-09-03>
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count176
+\Gm@cntv=\count177
+\c@Gm@tempcnt=\count178
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip49
+\multirow@cntb=\count179
+\multirow@dima=\skip50
+\bigstrutjot=\dimen143
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen144
+\lightrulewidth=\dimen145
+\cmidrulewidth=\dimen146
+\belowrulesep=\dimen147
+\belowbottomsep=\dimen148
+\aboverulesep=\dimen149
+\abovetopsep=\dimen150
+\cmidrulesep=\dimen151
+\cmidrulekern=\dimen152
+\defaultaddspace=\dimen153
+\@cmidla=\count180
+\@cmidlb=\count181
+\@aboverulesep=\dimen154
+\@belowrulesep=\dimen155
+\@thisruleclass=\count182
+\@lastruleclass=\count183
+\@thisrulewidth=\dimen156
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/08/26 v1.2 Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/08/23 v1.3g Sub-captions (AR)
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/09/02 v3.5a Customizing captions (AR)
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/08/30 v2.0 caption3 kernel (AR)
+\captionmargin=\dimen159
+\captionmargin@=\dimen160
+\captionwidth=\dimen161
+\caption@tempdima=\dimen162
+\caption@indent=\dimen163
+\caption@parindent=\dimen164
+\caption@hangindent=\dimen165
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count184
+\c@continuedfloat=\count185
+)
+\c@subfigure=\count186
+\c@subtable=\count187
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count188
+\float@exts=\toks19
+\float@box=\box45
+\@float@everytoks=\toks20
+\@floatcapt=\box46
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2020-09-01 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count189
+\l__pdf_internal_box=\box47
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count190
+\scratchdimen=\dimen166
+\scratchbox=\box48
+\nofMPsegments=\count191
+\nofMParguments=\count192
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count193
+\MPscratchDim=\dimen167
+\MPnumerator=\count194
+\makeMPintoPDFobject=\count195
+\everyMPtoPDFconversion=\toks22
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 77.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 77.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 77.
+ [1
+
+{C:/Users/User/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+<Statistics_Matrix.png, id=9, 986.9372pt x 327.47343pt>
+File: Statistics_Matrix.png Graphic file (type png)
+<use Statistics_Matrix.png>
+Package pdftex.def Info: Statistics_Matrix.png  used on input line 113.
+(pdftex.def)             Requested size: 409.71692pt x 135.94891pt.
+<Figure_1.png, id=10, 462.528pt x 346.896pt>
+File: Figure_1.png Graphic file (type png)
+<use Figure_1.png>
+Package pdftex.def Info: Figure_1.png  used on input line 124.
+(pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
+<Figure_2.png, id=12, 462.528pt x 346.896pt>
+File: Figure_2.png Graphic file (type png)
+<use Figure_2.png>
+Package pdftex.def Info: Figure_2.png  used on input line 128.
+(pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
+<Figure_3.png, id=13, 462.528pt x 346.896pt>
+File: Figure_3.png Graphic file (type png)
+<use Figure_3.png>
+Package pdftex.def Info: Figure_3.png  used on input line 139.
+(pdftex.def)             Requested size: 409.71692pt x 307.302pt.
+
+[2 <./Statistics_Matrix.png> <./Figure_1.png> <./Figure_2.png>]
+<Figure_4.png, id=21, 462.528pt x 346.896pt>
+File: Figure_4.png Graphic file (type png)
+<use Figure_4.png>
+Package pdftex.def Info: Figure_4.png  used on input line 150.
+(pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
+<Figure_5.png, id=22, 462.528pt x 346.896pt>
+File: Figure_5.png Graphic file (type png)
+<use Figure_5.png>
+Package pdftex.def Info: Figure_5.png  used on input line 154.
+(pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
+<Figure_6.png, id=23, 462.528pt x 346.896pt>
+File: Figure_6.png Graphic file (type png)
+<use Figure_6.png>
+Package pdftex.def Info: Figure_6.png  used on input line 158.
+(pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
+ [3 <./Figure_3.png>]
+<Figure_7.png, id=28, 462.528pt x 346.896pt>
+File: Figure_7.png Graphic file (type png)
+<use Figure_7.png>
+Package pdftex.def Info: Figure_7.png  used on input line 172.
+(pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
+<Figure_8.png, id=29, 462.528pt x 346.896pt>
+File: Figure_8.png Graphic file (type png)
+<use Figure_8.png>
+Package pdftex.def Info: Figure_8.png  used on input line 176.
+(pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
+<Figure_9.png, id=30, 462.528pt x 346.896pt>
+File: Figure_9.png Graphic file (type png)
+<use Figure_9.png>
+Package pdftex.def Info: Figure_9.png  used on input line 180.
+(pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
+ [4 <./Figure_4.png> <./Figure_5.png> <./Figure_6.png>]
+<Figure_10.png, id=37, 462.528pt x 346.896pt>
+File: Figure_10.png Graphic file (type png)
+<use Figure_10.png>
+Package pdftex.def Info: Figure_10.png  used on input line 193.
+(pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
+<Figure_11.png, id=38, 462.528pt x 346.896pt>
+File: Figure_11.png Graphic file (type png)
+<use Figure_11.png>
+Package pdftex.def Info: Figure_11.png  used on input line 197.
+(pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
+<Figure_12.png, id=39, 462.528pt x 346.896pt>
+File: Figure_12.png Graphic file (type png)
+<use Figure_12.png>
+Package pdftex.def Info: Figure_12.png  used on input line 201.
+(pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
+<Figure_13.png, id=40, 462.528pt x 346.896pt>
+File: Figure_13.png Graphic file (type png)
+<use Figure_13.png>
+Package pdftex.def Info: Figure_13.png  used on input line 205.
+(pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
+<Figure_14.png, id=41, 462.528pt x 346.896pt>
+File: Figure_14.png Graphic file (type png)
+<use Figure_14.png>
+Package pdftex.def Info: Figure_14.png  used on input line 209.
+(pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
+ [5 <./Figure_7.png> <./Figure_8.png> <./Figure_9.png>]
+<Coefficients.png, id=48, 264.23718pt x 329.73187pt>
+File: Coefficients.png Graphic file (type png)
+<use Coefficients.png>
+Package pdftex.def Info: Coefficients.png  used on input line 222.
+(pdftex.def)             Requested size: 409.71692pt x 511.30048pt.
+ [6 <./Figure_10.png> <./Figure_11.png> <./Figure_12.png> <./Figure_13.png> <./
+Figure_14.png>]
+Overfull \vbox (19.64594pt too high) has occurred while \output is active []
+
+
+[7 <./Coefficients.png>]
+<Figure_15.png, id=61, 462.528pt x 346.896pt>
+File: Figure_15.png Graphic file (type png)
+<use Figure_15.png>
+Package pdftex.def Info: Figure_15.png  used on input line 229.
+(pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
+<Figure_16.png, id=62, 462.528pt x 346.896pt>
+File: Figure_16.png Graphic file (type png)
+<use Figure_16.png>
+Package pdftex.def Info: Figure_16.png  used on input line 233.
+(pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
+<Figure_17.png, id=63, 462.528pt x 346.896pt>
+File: Figure_17.png Graphic file (type png)
+<use Figure_17.png>
+Package pdftex.def Info: Figure_17.png  used on input line 237.
+(pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
+<SensorsSketch.png, id=64, 770.88pt x 578.16pt>
+File: SensorsSketch.png Graphic file (type png)
+<use SensorsSketch.png>
+Package pdftex.def Info: SensorsSketch.png  used on input line 250.
+(pdftex.def)             Requested size: 409.71692pt x 307.28789pt.
+ [8 <./Figure_15.png> <./Figure_16.png> <./Figure_17.png>]
+File: Figure_9.png Graphic file (type png)
+<use Figure_9.png>
+Package pdftex.def Info: Figure_9.png  used on input line 263.
+(pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
+<Figure_18.png, id=71, 462.528pt x 346.896pt>
+File: Figure_18.png Graphic file (type png)
+<use Figure_18.png>
+Package pdftex.def Info: Figure_18.png  used on input line 267.
+(pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
+ [9 <./SensorsSketch.png>]
+<Confidence_intervals.png, id=75, 261.22594pt x 180.675pt>
+File: Confidence_intervals.png Graphic file (type png)
+<use Confidence_intervals.png>
+Package pdftex.def Info: Confidence_intervals.png  used on input line 276.
+(pdftex.def)             Requested size: 227.62206pt x 157.43684pt.
+<T_test.png, id=76, 226.59656pt x 137.7647pt>
+File: T_test.png Graphic file (type png)
+<use T_test.png>
+Package pdftex.def Info: T_test.png  used on input line 284.
+(pdftex.def)             Requested size: 227.62206pt x 138.38867pt.
+ [10 <./Figure_18.png> <./Confidence_intervals.png>]
+<Bonus.png, id=81, 201.75375pt x 167.12437pt>
+File: Bonus.png Graphic file (type png)
+<use Bonus.png>
+Package pdftex.def Info: Bonus.png  used on input line 299.
+(pdftex.def)             Requested size: 227.62206pt x 188.55505pt.
+ [11 <./T_test.png>] (main.bbl) [12 <./Bonus.png>] (main.aux) ) 
+Here is how much of TeX's memory you used:
+ 3666 strings out of 481199
+ 58943 string characters out of 2906064
+ 301339 words of memory out of 3000000
+ 19227 multiletter control sequences out of 15000+200000
+ 543984 words of font info for 46 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,10n,47p,1502b,438s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\User\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\
+User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\U
+sers\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> 
+<C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728
+.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecr
+m1200.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecbx1440.pk>
+Output written on main.pdf (12 pages, 1691711 bytes).
+PDF statistics:
+ 351 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+
