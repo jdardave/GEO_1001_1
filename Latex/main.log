@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.18)  21 SEP 2020 00:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.18)  21 SEP 2020 13:17
 entering extended mode
 **./main.tex
 (main.tex
@@ -257,13 +257,13 @@ File: Figure_2.png Graphic file (type png)
 <use Figure_2.png>
 Package pdftex.def Info: Figure_2.png  used on input line 128.
 (pdftex.def)             Requested size: 163.88426pt x 122.91339pt.
-<Figure_3.png, id=13, 462.528pt x 346.896pt>
+
+[2 <./Statistics_Matrix.png> <./Figure_1.png> <./Figure_2.png>]
+<Figure_3.png, id=20, 462.528pt x 346.896pt>
 File: Figure_3.png Graphic file (type png)
 <use Figure_3.png>
 Package pdftex.def Info: Figure_3.png  used on input line 139.
 (pdftex.def)             Requested size: 409.71692pt x 307.302pt.
-
-[2 <./Statistics_Matrix.png> <./Figure_1.png> <./Figure_2.png>]
 <Figure_4.png, id=21, 462.528pt x 346.896pt>
 File: Figure_4.png Graphic file (type png)
 <use Figure_4.png>
@@ -388,7 +388,7 @@ Here is how much of TeX's memory you used:
  19227 multiletter control sequences out of 15000+200000
  543984 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,10n,47p,1502b,438s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,10n,47p,1523b,438s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\User\
 AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\
 User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\U
@@ -397,9 +397,9 @@ sers\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk>
 .pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecr
 m1200.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\ecbx1440.pk>
-Output written on main.pdf (12 pages, 1691711 bytes).
+Output written on main.pdf (12 pages, 1692383 bytes).
 PDF statistics:
- 351 PDF objects out of 1000 (max. 8388607)
+ 352 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  121 words of extra memory for PDF output out of 10000 (max. 10000000)
 

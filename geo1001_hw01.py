@@ -53,7 +53,7 @@ std_Heat_E=df_E.std()
 statistics_Heat_E=([[mean_Heat_E],[var_Heat_E],[std_Heat_E]])
 print (statistics_Heat_E)
 
-np.savetxt("Stats_5_sensors.csv", [mean_Heat_A,var_Heat_A,std_Heat_A,mean_Heat_B,var_Heat_B,std_Heat_B,
+np.savetxt("Sensors_Stats.csv", [mean_Heat_A,var_Heat_A,std_Heat_A,mean_Heat_B,var_Heat_B,std_Heat_B,
 mean_Heat_C,var_Heat_C,std_Heat_C,mean_Heat_D,var_Heat_D,std_Heat_D,mean_Heat_E,var_Heat_E,std_Heat_E,], delimiter=",")
 
 #Temperature histograms
@@ -280,7 +280,6 @@ WBGT_E=df_E[16]
 
 
 #Heat Map A-Heat Map B
-
 
 pcoef_temp_AB = stats.pearsonr(temperature_Heat_A,temperature_Heat_B)
 prcoef_temp_AB = stats.spearmanr(temperature_Heat_A,temperature_Heat_B)

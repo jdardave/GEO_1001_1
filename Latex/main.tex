@@ -102,7 +102,7 @@ GEO1001.2020 \\ MSc Geomatics \\ Delft University of Technology \\
 
 \pagebreak
 \section{ Introduction}
- For this exercise, data from 5 sensors\cite{Maiullari2020} was used in order to complete it. The sensors have information regarding temperature wind speed and other variables.
+ For this exercise, climate data from 5 sensors based in Rijsenhout\cite{Maiullari2020} was used in order to complete its tasks. The sensors have information regarding temperature wind speed and other variables.
  
 \section{ Lesson A1}
 
@@ -130,7 +130,7 @@ Regarding the statistics results, there are not significant observations that ca
 	\end{subfigure}
 \end{figure}
 
-The two figures above show the temperature histograms with 50 and 5 bins responsively. There are some significant differences between the 2 plots. The 50-bins histogram contains more detail than the 5-bins one. The minimum number of bins, in order to come to robust conclusions about the sample, can be calculated with Rice's rule.
+The two figures above show the temperature histograms with 50 and 5 bins respectively. There are some significant differences between the 2 plots. The 50-bins histogram contains more detail than the 5-bins one. The minimum number of bins, in order to come to robust conclusions about the sample, can be calculated with Rice's rule.
 
 \subsection {Create 1 plot where frequency polygons for the 5 sensors Temperature values overlap in different colors with a legend.}
 
@@ -160,7 +160,7 @@ In order to create the polygons, the number of bins was calculated with Rice's r
 \end{subfigure}
 \end{figure}
 
-In the above figures a lot of outliers can be noticed in the Boxplot of Wind direction, for Sensor E.
+Each box represents a sensor.In total, three plots were created one for each variable. In the above figures a lot of outliers can be noticed in the Boxplot of Wind direction, for Sensor E.
 
 \section{ Lesson A2}
 
@@ -211,7 +211,7 @@ PMF and PPF seem to have similar distributions. Their peaks appear to be at 17-1
 	\end{subfigure}
 \end{figure}
 
-In order to answer to this question, five figures where made, one for each sensor. There are to plots per figure, one representing the Probability Density Function and the other one the Kernel Density Estimation for the wind speed values. The two graphs are almost the same in each sensor. This result has a logical explanation, because  KDE is an algorithm that takes a sample and finds an appropriately smooth PDF that fits the data. 
+In order to answer to this question, five figures were made, one for each sensor. There are two plots per figure, one representing the Probability Density Function and the other one the Kernel Density Estimation for the wind speed values. The two graphs are not the same but they have minor differences in each sensor. This result has a logical explanation, because  KDE is an algorithm that takes a sample and finds an appropriately smooth PDF that fits the data. 
 
 \section{ Lesson A3}
 
@@ -241,7 +241,7 @@ In order to answer to this question, five figures where made, one for each senso
 
 \subsection{What can you say about the sensors’ correlations?}
 
-By comparing the matrix and the scatter plots, some results on the sensors' correlations can be presented. First of all, the correlation values from the Crosswind data are lower, comparing to the ones produced by the other variables.In the Temperature and WBGT plots all the sensors have very high correlations between each other. In the aforementioned plots, the correlation between A and E has the lowest value, while in the crosswind plot the worst correlation appears between B and E.
+By comparing the matrix and the scatter plots, some results on the sensors' correlations can be presented. First of all, the correlation values from the Crosswind data are lower, close to 0.5, compared to the ones produced by the other two variables.In the Temperature and WBGT plots all the sensors have very high correlations between each other. There are differences between Pearson and Spearman Coefficients, a fact that is caused due to their different abilities in expressing linear and non-linear information. It is detectable that in all the plots, Sensor E involved in the lowest correlations.
 
 \subsection{If we told you that that the sensors are located as follows, hypothesize which location would you assign to each sensor and reason your hypothesis using the correlations.}
 
@@ -251,7 +251,7 @@ By comparing the matrix and the scatter plots, some results on the sensors' corr
 	\caption{Sensor Map} % Creates caption underneath graph
 \end{figure}
 
-Depending on the correlation values between the sensors, as well as the scatter plots, some conclusions were made.After the creation of some scatter plots for the three variables,it was found that the temperature and WBGT correlations were linear, while the scatter plot of croswind was non linear. That is the reason, the Spearman Coefficient was preferd in order to justify the location of the sensors based on crosswind. First of all, in my opinion Sensor E is on the northeast side of the map as shown above. This conclusion was made, due to the fact that E has the lowest correlations with the other sensors. From the location of the sensor, it can be observed that it is surrounded by buildings,unlike with the other location, which may indicate the low correlation regarding windspeed.Moreover,next to it Sensor C was placed, due to the fact that it has the least worse correlations to Sensor E, comparing to the other sensors. South of C, Sensor D was assigned,because these 2 sensors have the best correlations in terms of WindSpeed and Temperature. Their location is close, they seem to be on the same type of soil and surrounded by the same buildings. West of D, Sensor B was assigned because comparing to A it is better correlated to D, in all the variables.In the end Sensor A was placed in the southwestern part, because it is really close to B and also surrounded by the same buildings, a conclusion that can be made cause of their high correlations in the three variables.
+Depending on the correlation values between the sensors, as well as the scatter plots, some conclusions were made.After the creation of some scatter plots for the three variables,it was found that the temperature and WBGT correlations were linear, while the scatter plot of croswind was non linear. That is the reason, the Spearman Coefficient was prefered in order to justify the location of the sensors based on crosswind. First of all, in my opinion Sensor E is on the northeast side of the map as shown above. This conclusion was made, due to the fact that E has the lowest correlations with the other sensors. From the location of the sensor, it can be observed that it is surrounded by buildings,in contrast to the other locations, which may explain the low correlation regarding windspeed. Moreover, next to it Sensor C was placed, due to the fact that it has the least worse correlations to Sensor E, comparing to the other sensors. South of C, Sensor D was assigned,because these 2 sensors have the best correlations in terms of WindSpeed and Temperature. Their location is close, they seem to be based on the same type of soil and surrounded by the same buildings. West of D, Sensor B was assigned because comparing to A it is better correlated to D, in  terms of all the variables.In the end, Sensor A was placed in the southwestern part, because it is really close to B and also surrounded by the same buildings, a conclusion that can be made due to their high correlations in the three variables.
 
 \section { Lesson A4}
 
@@ -269,7 +269,7 @@ Depending on the correlation values between the sensors, as well as the scatter 
 	\end{subfigure}
 \end{figure}
 
-It is noticeable that A Sensor E has the biggest tail for Temperature values. At the same time it appears to have the shortest in Wind speed.
+It is noticeable that Sensor E has the biggest tail for Temperature values. At the same time, it appears to have the shortest one for Wind speed.
 
 \begin{figure}[H] % places figure environment here   
 	\centering % Centers Graphic
@@ -285,14 +285,14 @@ It is noticeable that A Sensor E has the biggest tail for Temperature values. At
 	\caption{Student test and p-values} % Creates caption underneath graph
 \end{figure}
 
-The hypothesis for the requested sensors was made and the results can be seen above. In order to understand the significance of the p-values, a null hypothesis was suggested, that the sensors mentioned above have the same Temperature and Windspeed values. Low p-values indicate that the effect is said to be statistically
-significant, which means that it is unlikely to have occurred by chance. In that cases the null hypothesis is invalid. The lowest values are observed between Sensors E and D, as well as D and C.
+The hypothesis for the requested sensors was made and the results can be seen above. In order to understand the significance of p-values, a null hypothesis was suggested, that the sensors mentioned above have the same Temperature and Windspeed values. Low p-values indicate that the effect is said to be statistically
+significant, which means that it is unlikely to have occurred by chance. In that case, the null hypothesis is invalid. The lowest values are observed between Sensors E and D, as well as D and C and they are very close to 0.
 
 \section {Bonus question}
 
 \subsection {Your “employer” wants to estimate the day of maximum and minimum potential energy consumption due to air conditioning usage. To hypothesize regarding those days, you are asked to identify the hottest and coolest day of the measurement time series provided. How would you do that? Reason and program the python routine that would allow you to identify those days.}
 
-In the following question the hottest and coolest days per sensor were calculated. In order to achieve that, a function in python was created, entitled as average temperature that took one variable which was the data. The function contains two lists, one named temperature and the other one dates. The temperature list reads the temperature data from the excel files \cite{Maiullari2020}. Every day there were 72 measurements, every 20 minutes. So, the mean temperature for each day was calculated. The list named dates, contains the days that the measurements took place. Furthermore, a dataframe including those two lists was created and then it was sorted from the hottest to the coolest temperature.Then the function prints the hottest and coolest values and the corresponding dates. Finally, outside the function five print statements were coded, so that the results for each sensor can be seen. The results can be seen below:
+For the following question the hottest and coolest days per sensor were calculated. In order to achieve that, a function in python was created, entitled as average temperature that took one variable which was the data. The function contains two lists, one named "temperature" and the other one "dates". The first list reads the temperature data from the excel files \cite{Maiullari2020}. Every day there were 72 measurements, every 20 minutes. So, the mean temperature for each day was calculated. The second list includes the strings of the dates, that measurements took place. Furthermore, a dataframe including those two lists was created and then it was sorted from the hottest to the coolest temperature.Then the function prints the hottest and coolest values and the corresponding dates. Last but not least, outside the function, five print statements were coded, so that the results for each sensor can be seen. The results can be seen below:
 
 \begin{figure}[H] % places figure environment here   
 	\centering % Centers Graphic
